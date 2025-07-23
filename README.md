@@ -1,8 +1,11 @@
 Justin’s Python Projects Portfolio
+
 Description
+
 Welcome! This repository contains a collection of my beginner and intermediate Python projects. Each folder includes a project focused on practicing a specific skill—such as loops, functions, error handling, data analysis, or automation. My goal is to continuously build new projects and apply what I learn as I transition into a tech career.
 
 Projects Included
+
 -Basic Code Practice
   Simple scripts and mini-exercises as I begin learning Python’s core concepts.
 -Number Guessing Game
@@ -10,6 +13,7 @@ Projects Included
 See README
 
 How to Use
+
 Pick a project folder and open its README for details.
 Each sub-project contains a .py file and may include sample input/output.
 To run any .py file, you need Python 3 installed.
